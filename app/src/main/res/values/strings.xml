@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Coffee Bean</string>
+
+    <string-array name="tableno">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="coffeeitems">
+        <item>Affogato - Rs.142</item>
+        <item>Americano - Rs.125</item>
+        <item>Bicerin - Rs.154</item>
+        <item>Café Bombón - Rs.165</item>
+        <item>Café au lait - Rs.108</item>
+        <item>Caffé Corretto - Rs.98</item>
+        <item>Café Crema - Rs.68</item>
+        <item>Caffé Latte - Rs.96</item>
+        <item>Cappuccino - Rs.110</item>
+        <item>Irish coffee - Rs.67</item>
+        <item>Kopi Luwak - Rs. 85</item>
+        <item>Kopi Tubruk - Rs.78</item>
+        <item>Turkish Coffee - Rs.94</item>
+        <item>Vienna coffee - Rs.132</item>
+        <item>Yuanyang - Rs.124</item>
+    </string-array>
+</resources>
